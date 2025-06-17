@@ -1,24 +1,70 @@
-# 💫 Обо мне:
-Меня зовут Дементьев Денис Витальевич. Мне 21 год и сейчас я заканчиваю обучение в Канском технологическом колледже.
-🔭 <В текущий момент я работаю над Spring Boot микросервисным проектом для диплома />
+<h1>👋 Привет! Я Денис</h1>
 
-
-## 🌐 Способы связи:
-[email](mailto:fiarr4ik@gmail.com) <br>
-[telegram](https://t.me/Fiarr4ik)
-
-# 💻 Мой стэк технологий:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Статистика:
-![](https://github-readme-stats.vercel.app/api?username=Fiarr4ikDev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fiarr4ikDev&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiarr4ikDev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Трофеи
-![](https://github-profile-trophy.vercel.app/?username=Fiarr4ikDev&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Мои любимчики
-![](https://github-contributor-stats.vercel.app/api?username=Fiarr4ikDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>Начинающий Java-разработчик с интересом к backend-системам, микросервисной архитектуре и автоматизации процессов. Успешно прошёл образовательную стажировку в IT-компании и самостоятельно реализовал масштабируемый микросервисный проект.</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Fiarr4ikDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🎯 Чем я занимаюсь
+
+- Backend-разработка на Java (Spring Boot, Spring Cloud)
+- Микросервисная архитектура
+- Работа с REST API, PostgreSQL и Docker
+- Самостоятельное проектирование и документирование кода
+
+---
+
+## 💼 Опыт работы
+
+### Стажёр – Java Developer  
+**web-bee.ru**  
+Июнь 2024 – Август 2024  
+
+- Изучал и применял: Spring, OpenAPI, PostgreSQL, Git, Kafka  
+- Понял, как строятся реальные IT-проекты  
+- Получил первый опыт взаимодействия с профессиональной средой
+
+---
+
+## 🏗️ Проект: Xenon Diplom
+
+Самостоятельно спроектированное и реализованное микросервисное приложение для управления складом и поставками.
+
+### Особенности:
+- Архитектура на основе Spring Cloud (Eureka, Gateway)
+- Поддержка нескольких окружений и документация через Swagger
+- Возможность расширения под реальные бизнес-нужды
+
+🔗 [Посмотреть проект](https://github.com/Fiarr4ikDev/xenon-diplom) 
+
+---
+
+## 🔧 Мои навыки
+
+**Backend:** Java, Spring Boot, Spring Cloud, REST API, JPA, Hibernate ORM  
+**Базы данных:** PostgreSQL, SQL, SQLite  
+**Инструменты:** Git, GitHub, IntelliJ IDEA, Lombok, XML  
+**Soft Skills:** самообучение, управление временем, организаторские навыки
+
+---
+
+## 📚 Образование
+
+**КГБПОУ "Канский технологический колледж"**  
+2025 — настоящее время  
+Специальность: Информационные системы
+
+---
+
+## 🌐 Контакты
+
+- Telegram: [@Fiarr4ik](https://t.me/Fiarr4ik)   
+- Email: fiarr4ik@gmail.com  
+- GitHub: [github.com/Fiarr4ikDev](https://github.com/Fiarr4ikDev) 
+
+---
+
+## 🚀 Почему со мной стоит связаться?
+
+Если ты ищешь мотивированного junior-разработчика, готового учиться, развиваться и вносить реальный вклад в проект — я открыт к предложениям и новым вызовам.
+
+Хочу расти в компании, где ценится качество кода, обратная связь и стремление к профессиональному росту.
